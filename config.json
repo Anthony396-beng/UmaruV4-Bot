@@ -46,10 +46,10 @@
 		"nsfw": false,
 		"UsersPhoto": false
 	},
-	"Owner": "John Lester",
-	"Age": 16,
+	"Owner": "Anthony thimothy",
+	"Age": 21,
 	"Gender": "Male",
-	"Facebook": "https://www.facebook.com/rootalocalhost.dev",
+	"Facebook": "https://www.facebook.com/anthony.thimothy.davis.21",
 	"cmd_not_found": "Command {{1}} not found\nUse {{2}} to display all commands is that {{3}} or not?",
 	"permission_1": "⚠️ You don't have permission to use \"{{1}}\". Only group admin can use this command.",
 	"permission_2": "⚠️ You don't have permission to use \"{{1}}\". Only system admin can use this command.",
