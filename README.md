@@ -8,7 +8,7 @@
 
 
 <p align="center">
-	<img alt="size" src="https://img.shields.io/github/repo-size/rootalocalhost-dev/UmaruV4-Bot?style=flat-square&label=File%20size">
+	<img alt="size" src="https://github.com/Anthony396-beng/UmaruV4-Bot/img.shields.io/github/repo-size/https:/?style=flat-square&label=File%20size">
 	<img alt="code-version" src="https://img.shields.io/badge/dynamic/json?color=blue&label=code%20version&prefix=v&query=%24.version&url=https%3A%2F%2Fraw.githubusercontent.com%2Frootalocalhost-dev%2FUmaruV4-Bot%2Fmaster%2Fpackage.json&style=flat-square">
     	<img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=rootalocalhost-dev.UmaruV4-Bot">
   <img alt="size" src="https://img.shields.io/badge/license-AGPL%203.0-blue?style=flat-square" style="max-width: 100%;">
