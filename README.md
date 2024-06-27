@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-    <a href="https://github.com/rootalocalhost-dev/UmaruV4-Bot">
+    <a href="https://github.com/Anthony396-beng/UmaruV4-Bot">
         <img src="https://i.imgur.com/wgEmjfB.png" alt="Logo">
     </a>
 
@@ -28,7 +28,7 @@
 
 ## 💠 What is UmaruV4?
 
-<p>John Lester created the UmaruV4 Facebook Messenger bot. It is essentially a project that builds a bot system specifically for Facebook Messenger in order to provide users with a new experience in Messenger.<br><br>Preview:</p>
+<p>Anthony Thimothy created the UmaruV4 Facebook Messenger bot. It is essentially a project that builds a bot system specifically for Facebook Messenger in order to provide users with a new experience in Messenger.<br><br>Preview:</p>
 <img src="https://i.imgur.com/uw2LYZY.jpg" style="width:360px;"></img>
 
 ## 🔐 Appstate Encryption
